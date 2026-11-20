@@ -118,7 +118,7 @@ Default database location:
 
 
 
-1\. Open `CareFlow-CSharp.sln` in Visual Studio.
+1\. Open `CareFlow.slnx` in Visual Studio.
 
 2\. Restore the NuGet packages if necessary.
 
