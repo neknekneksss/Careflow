@@ -1,6 +1,10 @@
 \# CareFlow – Diagnostic Booking Management
 
+Submitted by:
+Brent Marcus C. Ocaya
+Darryl Macarandan
 
+BSIT 3C
 
 \## Overview
 
