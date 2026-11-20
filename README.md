@@ -170,5 +170,5 @@ The application focuses on diagnostic appointment booking and capacity managemen
 
 
 
-AI assistance was used to support implementation, explain programming concepts, troubleshoot errors, and assist with documentation. The project was reviewed, integrated, and tested by the developer.
+AI assistance was used to support implementation, explain programming concepts, troubleshoot errors, and assist with documentation. The project was reviewed, integrated, and tested by the project members.
 
